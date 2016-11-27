@@ -1,0 +1,11 @@
+set(SOURCE
+   ${SOURCE}
+   ${CMAKE_CURRENT_SOURCE_DIR}/capability.cpp
+   PARENT_SCOPE
+)
+set(HEADERS
+   ${HEADERS}
+   ${CMAKE_CURRENT_SOURCE_DIR}/capability.h
+   ${CMAKE_CURRENT_SOURCE_DIR}/undead.h
+   PARENT_SCOPE
+)

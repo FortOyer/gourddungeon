@@ -1,0 +1,3 @@
+[submodule "extlibs/Catch"]
+	path = extlibs/Catch
+	url = https://github.com/philsquared/Catch
